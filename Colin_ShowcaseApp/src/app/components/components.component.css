@@ -1,0 +1,8 @@
+.framed-details {
+    max-width: 400px;
+    margin-left: 25px;
+}
+.horizontal {
+    display: flex;
+    justify-content: space-around;
+}
