@@ -29,16 +29,15 @@ Create a new branch based on the main branch for your own personal Angular Proje
 
 #### 2. Run the commands below: ####
 
+Install Packages:
+```bash
+npm install –g @angular/cli
+```
+
 Check for installation:
 ```bash
 node -v
 npm -v
-```
-
-Install Packages:
-```bash
-npm install –g typescript
-npm install –g @angular/cli
 ```
 
 Create & Run Angular Application:
@@ -61,7 +60,6 @@ Note: replace applicationName.
 
 Check for installation (if needed):
 ```bash
-npm install –g typescript
 npm install –g @angular/cli
 ```
 
