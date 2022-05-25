@@ -1,0 +1,6 @@
+[submodule "Aaron Hertner/Hero_App"]
+	path = Aaron Hertner/Hero_App
+	url = https://github.com/AaronHertner/Hero_App.git
+[submodule "Colin Peters/Colin_ShowcaseApp"]
+	path = Colin Peters/Colin_ShowcaseApp
+	url = https://github.com/Cpete040/Colin_ShowcaseApp.git
