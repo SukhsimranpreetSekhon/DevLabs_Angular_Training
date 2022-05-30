@@ -9,6 +9,8 @@ Name(s):  | Experiment(s):
 [Aaron Hertner](https://github.com/AaronHertner)  | Hero App
 [Colin Peters](https://github.com/Cpete040)  | Angular Showcase App
 [Sukhsimranpreet Sekhon](https://github.com/SukhsimranpreetSekhon)  | Forecast App
+[Vidulash Rajaratnam](https://github.com/vidulashr)  | Portfolio App
+
 
 ## Contributing
 
