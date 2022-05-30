@@ -4,3 +4,6 @@
 [submodule "Colin Peters/Colin_ShowcaseApp"]
 	path = Colin Peters/Colin_ShowcaseApp
 	url = https://github.com/Cpete040/Colin_ShowcaseApp.git
+[submodule "Vidulash Rajaratnam/Vidu_PortfolioApp"]
+	path = Vidulash Rajaratnam/Vidu_PortfolioApp
+	url = https://github.com/Vidulashr/Vidu_PortfolioApp.git
