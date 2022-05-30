@@ -7,9 +7,9 @@ This is a repository that contains Angular Projects developed by participants of
 Name(s):  | Experiment(s):
 ------------- | -------------
 [Aaron Hertner](https://github.com/AaronHertner)  | Hero App
-[Colin Peters](https://github.com/Cpete040)  | Angular Showcase App
+[Colin Peters](https://github.com/Cpete040)  | [Angular Showcase App](https://cpete040.github.io/Colin_ShowcaseApp/)
 [Sukhsimranpreet Sekhon](https://github.com/SukhsimranpreetSekhon)  | Forecast App
-[Vidulash Rajaratnam](https://github.com/vidulashr)  | Portfolio App
+[Vidulash Rajaratnam](https://github.com/vidulashr)  | [Portfolio App](https://vidulashr.github.io/Vidu_PortfolioApp)
 
 
 ## Contributing
