@@ -7,3 +7,6 @@
 [submodule "Vidulash Rajaratnam/Vidu_PortfolioApp"]
 	path = Vidulash Rajaratnam/Vidu_PortfolioApp
 	url = https://github.com/Vidulashr/Vidu_PortfolioApp.git
+[submodule "Rajitha Muthukrishnan"]
+	path = Rajitha Muthukrishnan
+	url = https://github.com/RajithaMuthukrishnan/Penpad_NotesApp.git
