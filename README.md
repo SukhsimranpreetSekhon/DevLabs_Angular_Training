@@ -11,6 +11,8 @@ Name(s):  | Experiment(s):
 [Sukhsimranpreet Sekhon](https://github.com/SukhsimranpreetSekhon)  | Forecast App
 [Vidulash Rajaratnam](https://github.com/vidulashr)  | [Portfolio App](https://vidulashr.github.io/Vidu_PortfolioApp)
 [Rajitha Muthukrishnan](https://github.com/RajithaMuthukrishnan) | [Notes App](https://github.com/RajithaMuthukrishnan/Rajitha_NotesApp)
+[Gurpiar Brar](https://github.com/GurpiarBrar)  | [Group Chat App](https://gurpiarbrar.github.io/Gurpiar_GroupChatApp/login)
+
 
 
 ## Contributing
