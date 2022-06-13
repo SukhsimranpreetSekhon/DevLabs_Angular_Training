@@ -13,3 +13,6 @@
 [submodule "Gurpiar Brar/Gurpiar_GroupChatApp"]
 	path = Gurpiar Brar/Gurpiar_GroupChatApp
 	url = https://github.com/GurpiarBrar/Gurpiar_GroupChatApp.git
+[submodule "Dragi Plakalovic/AngularHomeChat"]
+	path = Dragi Plakalovic/AngularHomeChat
+	url = https://github.com/DragiPlakalovic/AngularHomeChat.git
