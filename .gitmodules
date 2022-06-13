@@ -10,3 +10,6 @@
 [submodule "Rajitha Muthukrishnan/Rajitha_NotesApp"]
 	path = Rajitha Muthukrishnan/Rajitha_NotesApp
 	url = https://github.com/RajithaMuthukrishnan/Rajitha_NotesApp.git
+[submodule "Gurpiar Brar/Gurpiar_GroupChatApp"]
+	path = Gurpiar Brar/Gurpiar_GroupChatApp
+	url = https://github.com/GurpiarBrar/Gurpiar_GroupChatApp.git
