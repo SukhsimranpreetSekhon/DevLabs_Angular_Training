@@ -1,82 +1,27 @@
-# DevLabs Angular Training Repository
+# HomeChat
 
-This is a repository that contains Angular Projects developed by participants of the Angular Training Curriculum created by the DevLabs Team.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
-## Participants
+## Development server
 
-Name(s):  | Experiment(s):
-------------- | -------------
-[Aaron Hertner](https://github.com/AaronHertner)  | Hero App
-[Colin Peters](https://github.com/Cpete040)  | [Angular Showcase App](https://cpete040.github.io/Colin_ShowcaseApp/)
-[Sukhsimranpreet Sekhon](https://github.com/SukhsimranpreetSekhon)  | Forecast App
-[Vidulash Rajaratnam](https://github.com/vidulashr)  | [Portfolio App](https://vidulashr.github.io/Vidu_PortfolioApp)
-[Rajitha Muthukrishnan](https://github.com/RajithaMuthukrishnan) | [Notes App](https://github.com/RajithaMuthukrishnan/Rajitha_NotesApp)
-[Gurpiar Brar](https://github.com/GurpiarBrar)  | [Group Chat App](https://gurpiarbrar.github.io/Gurpiar_GroupChatApp/login)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+## Code scaffolding
 
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Contributing
+## Build
 
-Create a new branch based on the main branch for your own personal Angular Project. Once completed, create a pull request which one of the contributors can review before squashing and merging into the main branch.
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Setup
+## Running unit tests
 
-### Install: ###
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [GitHub Desktop](https://desktop.github.com/) (Optional)
+## Running end-to-end tests
 
-### Creating New Experiment: ###
- 
-#### 1. Create your own branch based on the main branch ####
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-#### 2. Run the commands below: ####
+## Further help
 
-Install Packages:
-```bash
-npm install –g @angular/cli
-```
-
-Check for installation:
-```bash
-node -v
-npm -v
-```
-
-Create & Run Angular Application:
-```bash
-ng new yourName_applicationNameApp
-cd yourName_applicationNameApp
-ng serve --open
-```
-Note: replace yourName and applicationName.
-
-### Running Existing Experiment: ###
-
-#### 1. Run the commands below: ####
-
-Move into Experiment folder:
-```bash
-cd yourName_applicationNameApp
-```
-Note: replace applicationName.
-
-Check for installation (if needed):
-```bash
-npm install –g @angular/cli
-```
-
-Install Packages:
-```bash
-npm install
-```
-
-Create & Run Angular Application:
-```bash
-npm start
-```
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
