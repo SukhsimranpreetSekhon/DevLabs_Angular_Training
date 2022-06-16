@@ -6,15 +6,13 @@ This is a repository that contains Angular Projects developed by participants of
 
 Name(s):  | Experiment(s):
 ------------- | -------------
-[Aaron Hertner](https://github.com/AaronHertner)  | Hero App
+[Aaron Hertner](https://github.com/AaronHertner)  | [Hero App](https://github.com/AaronHertner/Hero_App)
 [Colin Peters](https://github.com/Cpete040)  | [Angular Showcase App](https://cpete040.github.io/Colin_ShowcaseApp/)
-[Sukhsimranpreet Sekhon](https://github.com/SukhsimranpreetSekhon)  | Forecast App
+[Sukhsimranpreet Sekhon](https://github.com/SukhsimranpreetSekhon)  | [Forecast App](https://github.com/SukhsimranpreetSekhon/Forecast_App)
 [Vidulash Rajaratnam](https://github.com/vidulashr)  | [Portfolio App](https://vidulashr.github.io/Vidu_PortfolioApp)
 [Rajitha Muthukrishnan](https://github.com/RajithaMuthukrishnan) | [Notes App](https://github.com/RajithaMuthukrishnan/Rajitha_NotesApp)
 [Gurpiar Brar](https://github.com/GurpiarBrar)  | [Group Chat App](https://gurpiarbrar.github.io/Gurpiar_GroupChatApp/login)
-[Dragi Plakalovic](https://github.com/DragiPlakalovic) | [HomeChat App]()
-
-
+[Dragi Plakalovic](https://github.com/DragiPlakalovic) | [HomeChat App](https://github.com/DragiPlakalovic/AngularHomeChat)
 
 ## Contributing
 

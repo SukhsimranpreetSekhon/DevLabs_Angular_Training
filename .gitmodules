@@ -16,3 +16,6 @@
 [submodule "Dragi Plakalovic/AngularHomeChat"]
 	path = Dragi Plakalovic/AngularHomeChat
 	url = https://github.com/DragiPlakalovic/AngularHomeChat.git
+[submodule "Sukhsimranpreet Sekhon/Forecast_App"]
+	path = Sukhsimranpreet Sekhon/Forecast_App
+	url = https://github.com/SukhsimranpreetSekhon/Forecast_App.git
