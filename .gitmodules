@@ -19,3 +19,6 @@
 [submodule "Sukhsimranpreet Sekhon/Forecast_App"]
 	path = Sukhsimranpreet Sekhon/Forecast_App
 	url = https://github.com/SukhsimranpreetSekhon/Forecast_App.git
+[submodule "Ravisha Sharma/Todo-Application"]
+	path = Ravisha Sharma/Todo-Application
+	url = https://github.com/RavishaSharma/Todo-Application.git
